@@ -1,4 +1,4 @@
-# Week 5: Modern Layout Portfolio
+# Week 4: Modern Layout Portfolio
 ## Transform Your Portfolio with Flexbox, Grid, and Responsive Design
 
 ### 🎯 Learning Objectives
@@ -12,19 +12,19 @@ By completing this project, you will:
 
 ### 📚 Prerequisites
 Before starting, you should have:
-- Completed Week 5 lecture on Modern CSS Layouts
+- Completed Week 4 lecture on Modern CSS Layouts
 - Reviewed prep work chapters:
   - Chapter 7: Flexbox
   - Chapter 15: CSS Grid
   - Chapter 8: Responsive Design (optional but helpful)
-- (Optional) Your code from Week 4 project - Data-Driven Portfolio
+- (Optional) Your code from Week 5 project - Data-Driven Portfolio
 
 ### 🏗️ Project Overview
 You'll transform a basic portfolio website into a modern, responsive masterpiece using Flexbox and Grid. This isn't just about making things look pretty - you're implementing the exact layout techniques used by professional developers at companies like Google, Apple, and Netflix. Focus purely on CSS layouts - no JavaScript needed for this week!
 
 ### 🚀 Getting Started
 
-**First:** Accept the GitHub Classroom assignment link provided by your instructor. This will create a new repository with the Week 5 starter code.
+**First:** Accept the GitHub Classroom assignment link provided by your instructor. This will create a new repository with the Week 4 starter code.
 
 1. **Clone your new repository:**
    ```bash
@@ -34,15 +34,15 @@ You'll transform a basic portfolio website into a modern, responsive masterpiece
 
 2. **Choose your path:**
 
-#### Option A: Continue from Week 4 (Recommended)
-If you completed the Week 4 project and want to build upon it:
+#### Option A: Continue from Week 3 (Recommended)
+If you completed the Week 3 project and want to build upon it:
 
 1. **Delete the starter files** in your cloned repository (but keep the .git folder)
-2. **Copy your Week 4 files** into the cloned repository folder
+2. **Copy your Week 3 files** into the cloned repository folder
 3. **Replace the content** in your HTML with your personal information
 4. We'll focus on transforming `style.css` with modern layout techniques
 
-**Note:** Week 4 used JavaScript for dynamic content. For Week 5, we're simplifying to focus on CSS layouts - you can convert your dynamic content to static HTML or use the provided examples as a starting point.
+**Note:** Week 3 was a static HTML/CSS page. This week goes deeper into layout with Flexbox and Grid - no JavaScript needed yet (that starts next week).
 
 #### Option B: Fresh Start
 If starting fresh, use the provided starter files in your cloned repository:
