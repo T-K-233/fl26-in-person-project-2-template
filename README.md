@@ -17,18 +17,18 @@ Before starting, you should have:
   - Chapter 7: Flexbox
   - Chapter 15: CSS Grid
   - Chapter 8: Responsive Design (optional but helpful)
-- (Optional) Your code from Week 5 project - Data-Driven Portfolio
+- (Optional) Your code from the Week 3 project - Personal Profile Page
 
 ### 🏗️ Project Overview
 You'll transform a basic portfolio website into a modern, responsive masterpiece using Flexbox and Grid. This isn't just about making things look pretty - you're implementing the exact layout techniques used by professional developers at companies like Google, Apple, and Netflix. Focus purely on CSS layouts - no JavaScript needed for this week!
 
 ### 🚀 Getting Started
 
-**First:** Accept the GitHub Classroom assignment link provided by your instructor. This will create a new repository with the Week 4 starter code.
+**First:** Fork this template repository on GitHub into your own account (the Fork button, top right; keep it public, name it `in-person-project-2-<your-github-username>`). Your fork carries the Week 4 starter code.
 
 1. **Clone your new repository:**
    ```bash
-   git clone [your-github-classroom-repo-url]
+   git clone [your-fork-url]
    cd [your-repo-name]
    ```
 
